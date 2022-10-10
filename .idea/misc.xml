@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.203125" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/btn_shape.xml" value="0.22447916666666667" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/edge.xml" value="0.2454849498327759" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/ic_home_12.xml" value="0.21875" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/ic_home_24.xml" value="0.3687179487179487" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.203125" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/ic_launcher_sw_background.xml" value="0.203125" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/lay_list_ic.xml" value="0.3723076923076923" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/menu_selector_color.xml" value="0.22447916666666667" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/ripple_bttn.xml" value="0.21041666666666667" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/shape.xml" value="0.22447916666666667" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/tab_border.xml" value="0.3712820512820513" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/txt_input_off.xml" value="0.2454849498327759" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/txt_shape.xml" value="0.2454849498327759" />
+        <entry key="..\:/android file/firebase/app/src/main/res/drawable/txt_shape_input.xml" value="0.1347972972972973" />
+        <entry key="..\:/android file/firebase/app/src/main/res/font-v26/font_family.xml" value="0.22708333333333333" />
+        <entry key="..\:/android file/firebase/app/src/main/res/font/font_family.xml" value="0.225" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/activity_sub.xml" value="0.33" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_0.xml" value="0.18" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_1.xml" value="0.25" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_2.xml" value="0.25" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_3.xml" value="0.22199453551912568" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_4.xml" value="0.25" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_5.xml" value="0.32382246376811596" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_6.xml" value="0.32382246376811596" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_k2.xml" value="0.348731884057971" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/fragment_land.xml" value="0.19895833333333332" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/land_layout.xml" value="0.33242753623188404" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/layout.xml" value="0.33152173913043476" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/menu_selector_color.xml" value="0.20833333333333334" />
+        <entry key="..\:/android file/firebase/app/src/main/res/layout/subactivity.xml" value="0.17028985507246377" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_home.xml" value="0.221875" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_home_round.xml" value="0.221875" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3723076923076923" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23010033444816053" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sw.xml" value="0.23010033444816053" />
+        <entry key="..\:/android file/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sw_round.xml" value="0.3687179487179487" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable-v23/btn_setting.xml" value="0.4087179487179487" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/btn_setting.xml" value="0.175" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/btn_shape.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/edge.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/ic_launcher_sw_background.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/ripple_bttn.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/setting_btn.xml" value="0.175" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/tab_border.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/drawable/txt_input_off.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/activity_main.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/activity_sub.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/fragment_0.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/fragment_1.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/fragment_2.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/fragment_3.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/fragment_report.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/main/res/layout/land_layout.xml" value="0.15641891891891893" />
+        <entry key="..\:/android file/firebase0712/app/src/release/res/drawable/setting_btn.xml" value="0.16689189189189188" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/activity_sub.xml" value="0.25067567567567567" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/fragment_0.xml" value="0.25067567567567567" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/fragment_1.xml" value="0.25067567567567567" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/fragment_2.xml" value="0.25" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/fragment_3.xml" value="0.2" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/layout/fragment_report.xml" value="0.23326502732240437" />
+        <entry key="..\:/android file/firebase0714/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sw.xml" value="0.2585284280936455" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
