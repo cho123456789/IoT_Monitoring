@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="채널">
+        <item>0channel</item>
+        <item>1channel</item>
+        <item>2channel</item>
+        <item>3channel</item>
+        <item>4channel</item>
+        <item>5channel</item>
+        <item>6channel</item>
+        <item>7channel</item>
+
+    </string-array>
+
+
+
+
+</resources>

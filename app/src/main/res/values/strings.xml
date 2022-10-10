@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabView</string>
+    <string name="start">start</string>
+    <string name="one_ch"> 0_ch</string>
+    <string name="home">home</string>
+    <string name="button">Button</string>
+    <string name="_0">0 채널</string>
+    <item name="list_ch0" type="id" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
