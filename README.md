@@ -12,17 +12,34 @@
 - 전체 개발 기간 : 2022.03.01 ~ 2023.04.20
 - 기능 구현 : 2022-03-01 ~ 2022-04-20
 
-
 ## 기능소개
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/935cf7c9-8043-46cb-8725-ea5bed0c9b5d" alt="splash" width="300"/></td>
+    <td>
+      <h3>데이터 입출력</h3>
+      <ul>
+        <li>NI H/W 입출력 모듈 연동</li>
+        <li> D/I 모듈에 연결시 디지털신호를 전송하여 안드로이드에 표시합니다</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d4ed2685-19f4-49de-9257-f39e5ea26b43" alt="splash" width="300"/></td>
+    <td>
+      <h3>온도 측정</h3>
+      <ul>
+        <li>NI H/W 온도 모듈 연동</li>
+        <li>실시간 온도 측정 후 온도 데이터를 전송하여 안드로이드에 표시합니다</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## UI/UX
-![image](https://github.com/user-attachments/assets/9a9aa313-3de4-45a5-86b6-47a8eede58e1)
-
-
-
-
-
+## LabView Code 
 
 
 ## 개발툴
