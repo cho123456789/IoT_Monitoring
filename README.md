@@ -15,7 +15,7 @@
 ## 기능소개
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a80632e3-cbe3-466f-9a1c-85f99bb7c4ce" alt="splash" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8e18f33e-1ee5-46b6-b94a-e5f6af12cbe5" alt="splash" width="300"/></td>
     <td>
       <h3>데이터 전송</h3>
       <ul>
