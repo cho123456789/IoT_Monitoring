@@ -40,7 +40,7 @@
 </table>
 
 ## LabView Code 
-
+https://github.com/cho123456789/IoT_Monitoring-LabView
 
 ## 개발툴
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
