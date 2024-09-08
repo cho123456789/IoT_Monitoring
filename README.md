@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/d4ed2685-19f4-49de-9257-f39e5ea26b43" alt="splash" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/71e196f3-5d62-49e1-8ae0-048a7ced7d2d" alt="splash" width="300"/></td>
     <td>
       <h3>온도 측정</h3>
       <ul>
